@@ -1,12 +1,2 @@
 # my-favorite-piet-programs
-
-more info about piet programming lang [here](https://www.dangermouse.net/esoteric/piet.html)
-
-## Take a number and print its factorial:
-![](https://www.dangermouse.net/esoteric/piet/piet_factorial_big.png)
-## Approximate pi, the bigger the circle the better the approximating:
-![](https://www.dangermouse.net/esoteric/piet/piet_pi_big.png)
-## Take two numbers and multiply them:
-![](https://www.dangermouse.net/esoteric/piet/adder_big.png)
-## Tell wether a number is prime:
-![](https://user-images.githubusercontent.com/61805754/90833096-f9bc2500-e34f-11ea-93ac-e27f943fdf95.png)
+more info about piet programming lang [here](https://www.dangermouse.net/esoteric/piet.html)<details><summary>Take a number and print its factorial</summary><img src="https://www.dangermouse.net/esoteric/piet/piet_factorial_big.png"/></details><details><summary>Approximate pi, the bigger the circle the better the approximating</summary><img src="https://www.dangermouse.net/esoteric/piet/piet_pi_big.png"/></details><details><summary>Take two numbers and multiply them</summary><img src="https://www.dangermouse.net/esoteric/piet/adder_big.png"/></details><details><summary>Tell wether a number is prime</summary><img src="https://user-images.githubusercontent.com/61805754/90833096-f9bc2500-e34f-11ea-93ac-e27f943fdf95.png"/></details>
